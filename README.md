@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is a work in progress for my pages on GitHub
 
 You can use the [editor on GitHub](https://github.com/tonubin/tonubin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
